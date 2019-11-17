@@ -493,6 +493,7 @@ do so), like Python and Java.
 - [sanveg-rane](https://github.com/sanveg-rane-13/begineer-project-solutions)
 - [Ankit-Gupta](https://github.com/i-ankit25/begineer-project-solutions)
 - [vishaldhull09](https://github.com/vishaldhull09/beginner-project-solution)
+- [vishaldhull09](https://github.com/vishaldhull09/beginner-project-solution)
 - [007vedant](https://github.com/007vedant/beginner-project-solutions)
 - [mgokayb](https://github.com/mgokayb/beginnerpythonprojects)
 - [anil-goudar](https://github.com/anil-goudar/beginner-project-solutions.git)
