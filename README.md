@@ -96,7 +96,7 @@ Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects
     - quit (this must close the window)
 
 ### Pythagorean Triples Checker
-- If you do not know how basic right triangles work, or what a Pythagorean Triple is read these articles on Wikipedia[¹](https://en.wikipedia.org/wiki/Right_triangle) [²](https://en.wikipedia.org/wiki/Pythagorean_triple).
+- If you do not know how basic right triangles work, or what a Pythagorean Triple is read these articles on Wikipedia[Â¹](https://en.wikipedia.org/wiki/Right_triangle) [Â²](https://en.wikipedia.org/wiki/Pythagorean_triple).
 - Allows the user to input the sides of any triangle in any order.
 - Return whether the triangle is a Pythagorean Triple or not.
 - Loop the program so the user can use it more than once without having to restart the program.
@@ -244,7 +244,7 @@ Because of this problem, your job is to do the following:
 - Print out how many errors were corrected.
 - When you're finished, you should have corrected [this many](https://i.imgur.com/GRkj3yz.jpg) errors.
 
-### What’s My Number?
+### WhatÂ’s My Number?
 Between 1 and 1000, there is only 1 number that meets the following criteria:
 - The number has two or more digits.
 - The number is prime.
@@ -339,7 +339,7 @@ There is actually a lot you can do once your program starts receiving facts. Ins
 
 ### Random Wikipedia Article
 If you've been to Wikipedia, you may have noticed that there is a link to a random article on the left side of the screen. While it can be fun to see what article you get taken to, sometimes it would be nice to see the name of the article so you can skip it if it sounds boring. Luckily, Wikipedia has an API that allows us to do so [Click here](https://en.wikipedia.org/w/api.php?action=query&list=random&rnnamespace=0&rnlimit=10&format=json).
-However, there is a dilemma. Since Wikipedia has articles about topics from all over the world, some of them have special characters in the title. For example, the article about the spanish painter [Erasto Cortés Juárez](https://en.wikipedia.org/wiki/Erasto_Cort%C3%A9s_Ju%C3%A1rez) has é and á in it. If you look at this specific article's [API](https://en.wikipedia.org/w/api.php?action=query&prop=info&pageids=39608394&inprop=url&format=json), you will see that the title is "Erasto Cort\u00e9s Ju\u00e1rez" and that the \u00e9 and \u00e1 are replacing the two previously mentioned letters. (For information about what this is, start by checking out the first half of [this page](https://docs.python.org/2/howto/unicode.html) in the documentation). To make your program work, you're going to have to handle this problem somehow.
+However, there is a dilemma. Since Wikipedia has articles about topics from all over the world, some of them have special characters in the title. For example, the article about the spanish painter [Erasto CortÃ©s JuÃ¡rez](https://en.wikipedia.org/wiki/Erasto_Cort%C3%A9s_Ju%C3%A1rez) has Ã© and Ã¡ in it. If you look at this specific article's [API](https://en.wikipedia.org/w/api.php?action=query&prop=info&pageids=39608394&inprop=url&format=json), you will see that the title is "Erasto Cort\u00e9s Ju\u00e1rez" and that the \u00e9 and \u00e1 are replacing the two previously mentioned letters. (For information about what this is, start by checking out the first half of [this page](https://docs.python.org/2/howto/unicode.html) in the documentation). To make your program work, you're going to have to handle this problem somehow.
 - Create a program that pulls titles from the official Wikipedia API and then asks the user one by one if he or she would like to read about that article.
 - Example:
   - If the first title is Reddit, then the program should ask something along the lines of "Would you like to read about Reddit?" If the user says yes, then the program should open up the article for the user to read.
@@ -350,7 +350,7 @@ However, there is a dilemma. Since Wikipedia has articles about topics from all 
   - Make the program pause once the user has selected an article to read, and allow him or her to continue browsing different article titles once finished reading.
   - Allow the user to simply press ENTER to be asked about a new article.
 
-### What’s the Weather?
+### WhatÂ’s the Weather?
 If you would like to know the basics of what an API is, check out [this](http://www.reddit.com/r/explainlikeimfive/comments/qowts/eli5_what_is_api/c3z9kok) post by iamapizza.
 - Create a program that pulls data from OpenWeatherMap.org and prints out information about the current weather, such as the high, the low, and the amount of rain for wherever you live.
 - Subgoals:
@@ -409,8 +409,8 @@ Decide on the task to be done.
 Set the pomodoro timer (traditionally to 25 minutes).
 Work on the task.
 End work when the timer rings and put a checkmark on a piece of paper.
-If you have fewer than four checkmarks, take a short break (3–5 minutes), then go to step 2.
-After four pomodoros, take a longer break (15–30 minutes), reset your checkmark count to zero, then go to step 1.
+If you have fewer than four checkmarks, take a short break (3Â–5 minutes), then go to step 2.
+After four pomodoros, take a longer break (15Â–30 minutes), reset your checkmark count to zero, then go to step 1.
 to know more about Pomodoro Timer [click here](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 
 ### Scarne's Dice
@@ -433,8 +433,8 @@ Hint: If you are dealing with languages such as ***c*** then consider the senten
 
 ### ChessGame
 
-- Chess is a game as old as time, and has always followed the same rules (deviations aside). The logic of chess, however, matches up very nicely with the same logic you would use to program a game. Additionally, Chess makes for a fantastic starter piece—pun intended—towards a programming career.
-- You’ll start by mapping out both your board and your pieces. Then, you’ll go on to giving specific movements for your pieces. From brainstorm to final product, you’ll be forced to think of chess as less of a physical game and more of data-driven mental gymnastic! Click on the video above to begin learning how to maneuver your way through creating your very own chess program (and how to modify it to create your own version of chess).
+- Chess is a game as old as time, and has always followed the same rules (deviations aside). The logic of chess, however, matches up very nicely with the same logic you would use to program a game. Additionally, Chess makes for a fantastic starter pieceÂ—pun intendedÂ—towards a programming career.
+- YouÂ’ll start by mapping out both your board and your pieces. Then, youÂ’ll go on to giving specific movements for your pieces. From brainstorm to final product, youÂ’ll be forced to think of chess as less of a physical game and more of data-driven mental gymnastic! Click on the video above to begin learning how to maneuver your way through creating your very own chess program (and how to modify it to create your own version of chess).
 
 
 ### Movie of the day
@@ -519,6 +519,7 @@ do so), like Python and Java.
 - [sankarsh98](https://github.com/sankarsh98/beginner-project-solutions)
 - [SiddhantJain15](https://github.com/SiddhantJain15/beginner-projects-solutions)
 - [crosbymichael1](https://github.com/crosbymichael1/beginner-project-solutions)
+- [oakhtar147](https://github.com/oakhtar147/beginner-project-solutions)
 - [Darepapi](https://github.com/Darepapi/beginners-python-solutions)
 
 ## Contributing
