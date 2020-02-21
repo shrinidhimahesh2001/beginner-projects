@@ -506,7 +506,7 @@ do so), like Python and Java.
 - [vpatyal](https://github.com/vpatyal/beginner-projects-solutions)
 - [zamerman](https://github.com/zamerman/beginner-projects-solutions)
 - [karthik](https://github.com/chkarthik257/beginner-project-solutions)
-- [sanveg-rane](https://github.com/sanveg-rane-13/begineer-project-solutions
+- [sanveg-rane](https://github.com/sanveg-rane-13/begineer-project-solutions)
 - [sanveg-rane](https://github.com/sanveg-rane-13/begineer-project-solutions)
 - [Ankit-Gupta](https://github.com/i-ankit25/begineer-project-solutions)
 - [vishaldhull09](https://github.com/vishaldhull09/beginner-project-solution)
