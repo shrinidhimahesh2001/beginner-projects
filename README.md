@@ -521,6 +521,7 @@ do so), like Python and Java.
 - [crosbymichael1](https://github.com/crosbymichael1/beginner-project-solutions)
 - [oakhtar147](https://github.com/oakhtar147/beginner-project-solutions)
 - [Darepapi](https://github.com/Darepapi/beginners-python-solutions)
+- [githubman2718](https://github.com/githubman2718/beginner-project-solutions)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
