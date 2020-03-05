@@ -522,6 +522,7 @@ do so), like Python and Java.
 - [oakhtar147](https://github.com/oakhtar147/beginner-project-solutions)
 - [Darepapi](https://github.com/Darepapi/beginners-python-solutions)
 - [githubman2718](https://github.com/githubman2718/beginner-project-solutions)
+- [rivindu1289](https://github.com/rivindu1289/beginner-python-solutions)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
