@@ -526,6 +526,7 @@ do so), like Python and Java.
 - [lsiepman](https://github.com/lsiepman/BeginnerProjectSolutions)
 - [DigBick17](https://github.com/DigBick17/beginner-project-solutions)
 - [bhavya-error404](https://github.com/bhavya-error404/Beginner-Project-Solution)
+- [MarsCandyBars](https://github.com/MarsCandyBars/beginner_project_solutions.git)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
