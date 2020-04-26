@@ -244,7 +244,7 @@ Because of this problem, your job is to do the following:
 - Print out how many errors were corrected.
 - When you're finished, you should have corrected [this many](https://i.imgur.com/GRkj3yz.jpg) errors.
 
-### Whats My Number?
+### What's My Number?
 Between 1 and 1000, there is only 1 number that meets the following criteria:
 - The number has two or more digits.
 - The number is prime.
@@ -350,7 +350,7 @@ However, there is a dilemma. Since Wikipedia has articles about topics from all 
   - Make the program pause once the user has selected an article to read, and allow him or her to continue browsing different article titles once finished reading.
   - Allow the user to simply press ENTER to be asked about a new article.
 
-### Whats the Weather?
+### What's the Weather?
 If you would like to know the basics of what an API is, check out [this](http://www.reddit.com/r/explainlikeimfive/comments/qowts/eli5_what_is_api/c3z9kok) post by iamapizza.
 - Create a program that pulls data from OpenWeatherMap.org and prints out information about the current weather, such as the high, the low, and the amount of rain for wherever you live.
 - Subgoals:
