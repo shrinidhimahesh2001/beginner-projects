@@ -527,6 +527,7 @@ do so), like Python and Java.
 - [DigBick17](https://github.com/DigBick17/beginner-project-solutions)
 - [bhavya-error404](https://github.com/bhavya-error404/Beginner-Project-Solution)
 - [MarsCandyBars](https://github.com/MarsCandyBars/beginner_project_solutions.git)
+- [yaizkazani](https://github.com/yaizkazani/yaizkazani/tree/master/jorgegonzales_py_practice)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
