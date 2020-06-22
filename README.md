@@ -62,7 +62,7 @@ Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects
 - [Chess](#ChessGame)
 - [Movie of the day](#movie-of-the-day)
 - [Website Scraper / Analyzer](#website-scraper--analyzer)
-- [Palidrome](#Palindrome)
+- [Palindrome](#palindrome)
 
 ## Projects
 
@@ -459,7 +459,7 @@ do so), like Python and Java.
     - What are the important SEO tags and techniques in a web page
 
 
-### Palidrome
+### Palindrome
 
 - Palindrome means anything(here numbers) that reads the same backwards as forwards.
 - Write a program to check if a number is a palindrome or not.
