@@ -529,7 +529,7 @@ do so), like Python and Java.
 - [MarsCandyBars](https://github.com/MarsCandyBars/beginner_project_solutions.git)
 - [yaizkazani](https://github.com/yaizkazani/yaizkazani/tree/master/jorgegonzales_py_practice)
 - [jarv1n](https://github.com/jarv1n/beginner-projects-solutions)
--[VictoryWekwa](https://github.com/VictoryWekwa/Beginner-Projects)
+- [VictoryWekwa](https://github.com/VictoryWekwa/Beginner-Projects)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
