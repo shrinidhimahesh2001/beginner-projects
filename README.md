@@ -39,6 +39,7 @@ Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects
 - [Fibonacci Sequence](#fibonacci-sequence)
 - [Base Jumper](#base-jumper)
 - [Hangman Game](#hangman-game)
+- [War Card Game](#war-card-game)
 - [Menu Calculator](#menu-calculator)
 - [Seat Reservation](#seat-reservation)
 - [Dice Rolling Simulator](#dice-rolling-simulator)
@@ -190,6 +191,14 @@ If you do not know about the Fibonacci Sequence, read about it [here](https://en
 - Subgoals:
   - If the user loses, print out the word at the end of the game.
   - Create a "give up" option.
+  
+### War Card Game 
+ - War (also known as Battle in the United Kingdom) is a card game typically played by two players. It uses a standard playing card deck.The objective of the game is to win all of the cards.
+ - The deck is divided evenly among the players, giving each a down stack. In unison, each player reveals the top card of their deck—this is a "battle"—and the player with the higher card takes both of the cards played and moves them to their stack. Aces are high, and suits are ignored.
+ - If the two cards played are of equal value, then there is a "war".Both players place the next card of their pile face down (some variants have three face down cards) and then another card face-up. The owner of the higher face-up card wins the war and adds all the cards on the table to the bottom of their deck. If the face-up cards are again equal then the battle repeats with another set of face-down/up cards. This repeats until one player's face-up card is higher than their opponent's.
+ - Finally, Those who collect the 52 cards at first is declared as the winner !!!
+ - Subgoals:
+   - Create a "Replay" option.
 
 ### Menu Calculator
 Imagine you have started up a small restaurant and are trying to make it easier to take and calculate orders. Since your restaurant only sells 9 different items, you assign each one to a number, as shown below.
