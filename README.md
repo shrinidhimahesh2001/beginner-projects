@@ -60,6 +60,7 @@ Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects
 - [Pomodoro Timer](#Pomodoro-Timer)
 - [Scarne's Dice](#scarnes-dice)
 - [GoogleCase](#GoogleCase)
+- [Connect4](#Connect4)
 - [Chess](#ChessGame)
 - [Movie of the day](#movie-of-the-day)
 - [Website Scraper / Analyzer](#website-scraper--analyzer)
@@ -438,6 +439,15 @@ Turn-based dice game where players score points by rolling a die and then: if th
     - Sentence can be entered with any number of spaces.
 
 Hint: If you are dealing with languages such as ***c*** then consider the sentences as the char array.
+
+
+### Connect4
+
+- It is an age old game in which the players choose a color and then take turns dropping colored discs into a seven-column, six-row vertically suspended grid. 
+- The pieces fall straight down, occupying the lowest available space within the column. 
+- The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. 
+- Connect Four is a solved game. The first player can always win by playing the right moves.
+- To read more: [Connect4](https://www.mathsisfun.com/games/connect4.html)
 
 
 ### ChessGame
